@@ -5,7 +5,7 @@ Practice project for Google Africa Developer's Scholarship 2020 (Cloud track)
 
 Course | Module | Lab
 ------ | ------ | ---
-Essential Google Cloud Infrastructure: Core Services | Resource Management | [Examining Billing Data with BigQuery][examining_billing_data_with_bigquery]
+Essential Google Cloud Infrastructure: Core Services | Resource Management | [Examining Billing Data with BigQuery][examining_billing_data_with_bigquery_translation]
 Essential Google Cloud Infrastructure: Core Services | Virtual Networks | [VPC Networking][vpc_networking]
 
 ### Links to Labs
@@ -33,5 +33,5 @@ Getting Started with Google Kubernetes Engine | Creating a Continuous Delivery P
 [kubernetes_basics_v1.6]: labs/kubernetes_basics_v1.6.jpg
 [deploying_to_kubernetes_v1.6]: labs/deploying_to_kubernetes_v1.6.jpg
 [continuous_deployment_with_jenkins_v1.6]: labs/continuous_deployment_with_jenkins_v1.6.jpg
-[examining_billing_data_with_bigquery]: translations/examining_billing_data_with_bigquery.md
+[examining_billing_data_with_bigquery_translation]: translations/examining_billing_data_with_bigquery.md
 [vpc_networking]: translations/vpc_networking.md
