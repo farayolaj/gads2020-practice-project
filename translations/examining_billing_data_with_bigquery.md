@@ -1,17 +1,6 @@
 
 # Examining Billing data with BigQuery
 
-## Overview
-In this lab, you learn how to use BigQuery to analyze billing data.
-
-## Objectives
-In this lab, you learn how to perform the following tasks:
-
-- Create a dataset
-- Create a table
-- Import data from a billing CSV file stored in a bucket
-- Run complex queries on a larger dataset
-
 ## Task 1: Use BigQuery to import data
 ### Sign in to BigQuery and create a dataset
 You can export billing data directly to BigQuery as outlined here. However, for the purposes of this lab, a sample CSV billing file has been prepared for you. It is located in a Cloud Storage bucket where it is accessible to your student account. You will import this billing information into a BigQuery table and examine it.
